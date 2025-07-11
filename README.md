@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Python Developer with 5 years of experience I'll be delighted to create a Web product for you with Python, Django/Flask Rest Framework and any other Python-based technology on the backend.
+
+Web Frameworks:
+  - Django
+  - Flask
+  - FastApi
+    
+Backend :
+  - Python 3.x Async/Threading
+  - MVC , Django
+  - Databases: PostgreSQL, MySQL,MongoDB
+
+Frontend :
+  - HTML5/CSS/
+  - React, jQuery, Vue
+  - Bootstrap
+  - Vue
+  - Next.js
+
+API Integration :
+  - PayPal/Facebook/Google API/Twilio/Vox Implant/Stripe
+
+Cloud:
+  - AWS, Google Cloud, Blue Ocean (CL)
+    
