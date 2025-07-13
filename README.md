@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Takeru522&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 I am Python Developer with 5 years of experience I'll be delighted to create a Web product for you with Python, Django/Flask Rest Framework and any other Python-based technology on the backend.
 
 Web Frameworks:
@@ -39,4 +39,4 @@ API Integration :
 
 Cloud:
   - AWS, Google Cloud, Blue Ocean (CL)
-    
+    [![trophy](https://github-profile-trophy.vercel.app/?username=Takeru522&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
