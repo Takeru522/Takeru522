@@ -1,42 +1,47 @@
 ## Hi there 👋
 
-<!--
-**Takeru522/Takeru522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-==============
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am Python Developer with 5 years of experience I'll be delighted to create a Web product for you with Python, Django/Flask Rest Framework and any other Python-based technology on the backend.
+----------------------------
+### 🏆 GitHub Trophies
 
-Web Frameworks:
-  - Django
-  - Flask
-  - FastApi
-    
-Backend :
-  - Python 3.x Async/Threading
-  - MVC , Django
-  - Databases: PostgreSQL, MySQL,MongoDB
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Takeru522&theme=darkhub&rank=S,A,B,C&margin-w=10&margin-h=15" />
+</p>
 
-Frontend :
-  - HTML5/CSS/
-  - React, jQuery, Vue
-  - Bootstrap
-  - Vue
-  - Next.js
+---
 
-API Integration :
-  - PayPal/Facebook/Google API/Twilio/Vox Implant/Stripe
+### 📈 GitHub Stats
 
-Cloud:
-  - AWS, Google Cloud, Blue Ocean (CL)
-    [![trophy](https://github-profile-trophy.vercel.app/?username=Takeru522&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Takeru522&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeru522&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [youremail@example.com](diamond.dev0522@gmail.com)
+- 🌐 Portfolio: [your-portfolio.vercel.app](https:// myportfolio-omega-inky-18.vercel.app)
+
+---
+
+<p align="center">
+  <em>“Math is the language of the universe, and code is becoming my poetry.”</em><br />
+  ⭐️ Thanks for stopping by!
+</p>
