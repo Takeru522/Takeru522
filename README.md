@@ -1,6 +1,6 @@
-## Hi there 👋
+# 👋 Welcome to my github page! <br />
 
-I am Python Developer with 5 years of experience I'll be delighted to create a Web product for you with Python, Django/Flask Rest Framework and any other Python-based technology on the backend.
+I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 ----------------------------
 ### 🏆 GitHub Trophies
 
@@ -20,27 +20,79 @@ I am Python Developer with 5 years of experience I'll be delighted to create a W
 
 ---
 
-### 💻 Tech Stack
+## ⚡ My Skills
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [youremail@example.com](diamond.dev0522@gmail.com)
-- 🌐 Portfolio: [your-portfolio.vercel.app](https:// myportfolio-omega-inky-18.vercel.app)
-
----
-
+<table align="center">
+  <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+        <br>Javascript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
+        <br>Typescript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+        <br>Vue
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+        <br>Nuxt.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        <br>Angular
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+        <br>Three.js
+      </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+            <br>Rust
+          </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+          <br>Python
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
+            <br>C#
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+            <br>Go
+        </td>
+        <td align="center" width="90">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+          <br>Django
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+          <br>Laravel
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+          <br>WordPress
+        </td>
+    </tr>
+</table>
+<h2></h2>
 <p align="center">
   <em>“Math is the language of the universe, and code is becoming my poetry.”</em><br />
   ⭐️ Thanks for stopping by!
