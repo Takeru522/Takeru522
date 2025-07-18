@@ -103,7 +103,7 @@ plt.xlabel("Date")
     </tr>
   <tr>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/saas-icon.svg" alt="Saas" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/ai-icon.svg" alt="Saas" width="45" height="45" />
         <br>Saas
       </td>
      <td align="center" width="90">
