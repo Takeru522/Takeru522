@@ -1,7 +1,7 @@
 # 👋 Welcome to my github page! <br />
 
 I’m Takeru, a backend engineer and data learning specialist with over 6 years of experience turning data into powerful, real-world applications.
-I specialize in building scalable Python backends and intelligent AI systems. Whether you need a clean REST API, a data analysis pipeline, or a machine learning feature that drives user experience — I deliver fast, production-ready solutions with clear communication and clean code.
+ Whether you need a clean REST API, a data analysis pipeline, or a machine learning feature that drives user experience — I deliver fast, production-ready solutions with clear communication and clean code. 
 ----------------------------
 ## Favorite Saying 👍
 
@@ -16,7 +16,8 @@ model = Prophet(
 model.fit(df)
 future = model.make_future_dataframe(periods=30)  
 forecast = model.predict(future)
-    # My favorite projects involve combining backend engineering with smart data: building AI features, analyzing large datasets, and designing systems that learn and adapt.
+    # My favorite projects involve combining backend engineering with smart data:
+       # building AI features, analyzing large datasets, and designing systems that learn and adapt.
 model.plot(forecast)
 plt.title("Forecasted Daily Call Volume")
 plt.xlabel("Date")
@@ -103,8 +104,8 @@ plt.xlabel("Date")
     </tr>
   <tr>
      <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=tensflow" width="45" height="45" alt="mysql" />
-          <br>MYSQL
+          <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" alt="pandos" />
+          <br>Pandas
         </td>
      <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
