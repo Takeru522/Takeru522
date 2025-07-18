@@ -1,26 +1,25 @@
 # 👋 Welcome to my github page! <br />
 
-I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+I am a senior Data enthusiast and Backend engineer with over 6 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 ----------------------------
 ## Favorite Saying 👍
 
-```rust
-/// Texora's motto
-struct LinusTorvalds;
+```python
+/// Takeru's motto
+import pandas as pd
+import Prophet
 
-impl LinusTorvalds {
-  /// Return Linus Torvalds quote
-  fn said(&self) -> &str {
-    "Most good programmers do programming not because they expect to get paid /
-     or get adulation by the public, but because it is fun to program."
-  }
-}
+df = pd.read_csv("psd_file.csv")
+model = Prophet(
+    daily_seasonality=True,
+)
+model.fit(df)
+future = model.make_future_dataframe(periods=30)  # 30 future days
+forecast = model.predict(future)
 
-fn main() {
-  let linus_torvalds = LinusTorvalds;
-
-  println!("Linus Torvalds - {}", linus_torvalds.said());
-}
+model.plot(forecast)
+plt.title("Forecasted Daily Call Volume")
+plt.xlabel("Date")
 ```
 
 ## ⚡ My Skills
@@ -90,8 +89,8 @@ fn main() {
           <br>Django
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="AI" />
-          <br>AI
+          <img src="https://skillicons.dev/icons?i=eclipse" width="45" height="45" alt="eclipse" />
+          <br>Eclipse
         </td>
          <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="45" height="45" />
@@ -101,6 +100,24 @@ fn main() {
         <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
         <br>Angular
       </td>
+    </tr>
+  <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/saas-icon.svg" alt="Saas" width="45" height="45" />
+        <br>Saas
+      </td>
+     <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
+          <br>MYSQL
+        </td>
+    <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
+          <br>MongoDB
+        </td>
+    <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="postgresql" />
+          <br>PostgreSQL
+        </td>
     </tr>
 </table>
 <h2></h2>
