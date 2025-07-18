@@ -1,6 +1,6 @@
-# 👋 Welcome to my github page! <br />
+# 👋 Welcome to my Github page! <br />
 
-I’m Takeru, a backend engineer and data learning specialist with over 6 years of experience turning data into powerful, real-world applications.
+Whether you need a clean REST API, a data analysis pipeline, or a machine learning feature that drives user experience — I deliver fast, production-ready solutions with clear communication and clean code.
 
 ----------------------------
 ## Favorite Saying 👍
