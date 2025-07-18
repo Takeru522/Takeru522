@@ -1,11 +1,11 @@
 # 👋 Welcome to my github page! <br />
 
-I am a senior Data enthusiast and Backend engineer with over 6 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+I’m Takeru, a backend engineer and data learning specialist with over 6 years of experience turning data into powerful, real-world applications.
+I specialize in building scalable Python backends and intelligent AI systems. Whether you need a clean REST API, a data analysis pipeline, or a machine learning feature that drives user experience — I deliver fast, production-ready solutions with clear communication and clean code.
 ----------------------------
 ## Favorite Saying 👍
 
 ```python
-/// Takeru's motto
 import pandas as pd
 import Prophet
 
@@ -14,9 +14,9 @@ model = Prophet(
     daily_seasonality=True,
 )
 model.fit(df)
-future = model.make_future_dataframe(periods=30)  # 30 future days
+future = model.make_future_dataframe(periods=30)  
 forecast = model.predict(future)
-
+    # My favorite projects involve combining backend engineering with smart data: building AI features, analyzing large datasets, and designing systems that learn and adapt.
 model.plot(forecast)
 plt.title("Forecasted Daily Call Volume")
 plt.xlabel("Date")
@@ -102,10 +102,10 @@ plt.xlabel("Date")
       </td>
     </tr>
   <tr>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/ai-icon.svg" alt="Saas" width="45" height="45" />
-        <br>Saas
-      </td>
+     <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=tensflow" width="45" height="45" alt="mysql" />
+          <br>MYSQL
+        </td>
      <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
           <br>MYSQL
