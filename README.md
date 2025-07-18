@@ -45,6 +45,10 @@ fn main() {
         <br>JavaScript
       </td>
       <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typeScript" width="45" height="45" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
         <br>Next.js
       </td>
@@ -53,12 +57,8 @@ fn main() {
         <br>React.js
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-        <br>Nuxt.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-        <br>Angular
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+        <br>Node.js
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="aws" />
@@ -96,6 +96,10 @@ fn main() {
          <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="45" height="45" />
         <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        <br>Angular
       </td>
     </tr>
 </table>
