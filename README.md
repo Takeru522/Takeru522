@@ -37,16 +37,20 @@ fn main() {
         <br>C++
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
-        <br>React
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" height="45" />
+        <br>C#
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
+        <br>JavaScript
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
         <br>Next.js
       </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-        <br>Vue
+     <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+        <br>React.js
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
@@ -57,42 +61,42 @@ fn main() {
         <br>Angular
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-        <br>Three.js
+        <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="aws" />
+        <br>AWS
       </td>
     </tr>
     <tr>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-            <br>Rust
+          <img src="https://skillicons.dev/icons?i=matlab" width="45" height="45" alt="Matlab" />
+            <br>Matlab
           </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-          <br>Python
+          <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+          <br>Java
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
-            <br>C#
+            <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda" />
+            <br>Anaconda
         </td>
+         <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST-API" width="45" height="45" />
+        <br>REST-API
+      </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
-            <br>Go
+            <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="php" />
+            <br>Azure
         </td>
         <td align="center" width="90">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
           <br>Django
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-          <br>Laravel
+          <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="AI" />
+          <br>AI
         </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-          <br>WordPress
-        </td>
+         <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="45" height="45" />
+        <br>Docker
+      </td>
     </tr>
 </table>
 <h2></h2>
