@@ -30,11 +30,11 @@ fn main() {
   <tr>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
-        <br>Javascript
+        <br>Python
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
-        <br>Typescript
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
+        <br>C++
       </td>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
