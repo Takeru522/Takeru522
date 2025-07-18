@@ -2,23 +2,26 @@
 
 I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 ----------------------------
-### 🏆 GitHub Trophies
+## Favorite Saying 👍
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Takeru522&theme=darkhub&rank=S,A,B,C&margin-w=10&margin-h=15" />
-</p>
+```rust
+/// Texora's motto
+struct LinusTorvalds;
 
----
+impl LinusTorvalds {
+  /// Return Linus Torvalds quote
+  fn said(&self) -> &str {
+    "Most good programmers do programming not because they expect to get paid /
+     or get adulation by the public, but because it is fun to program."
+  }
+}
 
-### 📈 GitHub Stats
+fn main() {
+  let linus_torvalds = LinusTorvalds;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Takeru522&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeru522&layout=compact&theme=tokyonight" />
-</p>
-
----
+  println!("Linus Torvalds - {}", linus_torvalds.said());
+}
+```
 
 ## ⚡ My Skills
 <br />
