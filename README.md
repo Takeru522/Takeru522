@@ -1,7 +1,7 @@
 # 👋 Welcome to my github page! <br />
 
 I’m Takeru, a backend engineer and data learning specialist with over 6 years of experience turning data into powerful, real-world applications.
- Whether you need a clean REST API, a data analysis pipeline, or a machine learning feature that drives user experience — I deliver fast, production-ready solutions with clear communication and clean code. 
+
 ----------------------------
 ## Favorite Saying 👍
 
@@ -104,8 +104,8 @@ plt.xlabel("Date")
     </tr>
   <tr>
      <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" alt="pandos" />
-          <br>Pandas
+          <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="ai" />
+          <br>AI
         </td>
      <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
